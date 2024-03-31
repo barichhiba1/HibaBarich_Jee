@@ -6,3 +6,6 @@
 
 <h5>Question 2 </h5>
 <img src="Captures/cap2.png">
+
+<h5>Question 3 </h5>
+<img src="Captures/cap3 .png">
