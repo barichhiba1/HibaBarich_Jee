@@ -9,3 +9,5 @@
 
 <h5>Question 3 </h5>
 <img src="Captures/cap3.png">
+<h5>Question 4 </h5>
+<img src="Captures/cap4.png">
